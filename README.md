@@ -10,7 +10,6 @@ A learning project focused on building an AI-powered content generator. This app
 - [Usage](#usage)
 - [Environment Variables](#environment-variables)
 - [Contributing](#contributing)
-- [License](#license)
 
 
 ## Features
